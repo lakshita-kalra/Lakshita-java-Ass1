@@ -47,7 +47,7 @@ Welcome to the Banking Application!
 Enter your choice: 1
 Enter account holder name: Lakshita
 Enter initial deposit amount: 5000
-Enter email address: lakshita@example.com
+Enter email address: lakshitakalra07@gmail.com
 Enter phone number: 9876543210
 Account created successfully with Account Number: 1001
 
